@@ -1,0 +1,61 @@
+,freesound_id,license,name,path,tags,username
+0,397443,http://creativecommons.org/licenses/by/3.0/,"Piano, Metal Mallet, Scrape, Full String, Mid, Damp, A.wav",Input/Sounds/397443_5121236-hq.ogg,"['string', 'piano', 'Scraped', 'Piano', 'scrape', 'Scrape', 'metal', 'Mallet', 'Metal', 'mallet', 'String', 'scraped']",InspectorJ
+1,411726,http://creativecommons.org/licenses/by/3.0/,"Violin, Glissando, Ascending, A (H6 XY).wav",Input/Sounds/411726_5121236-hq.ogg,"['string', 'ascending', 'Violin', 'glissando', 'rising', 'Glissandi', 'Rising', 'Glissando', 'Ascending', 'H6', 'glissandi', 'String', 'violin']",InspectorJ
+2,414438,http://creativecommons.org/licenses/by/3.0/,"Light, Pulley Switch, On, C.wav",Input/Sounds/414438_5121236-hq.ogg,"['String', 'light', 'On', 'Switch', 'switch', 'Light', 'Pulley', 'string', 'pulley']",InspectorJ
+3,121328,http://creativecommons.org/publicdomain/zero/1.0/,evil string.wav,Input/Sounds/121328_1935622-hq.ogg,"['ambient', 'soundscape', 'string']",stk13
+4,117673,http://creativecommons.org/licenses/by/3.0/,A open string.wav,Input/Sounds/117673_646701-hq.ogg,"['a', 'classical', 'guitar', 'note', 'nylon', 'open', 'spanish', 'string']",Kyster
+5,30146,http://creativecommons.org/licenses/by/3.0/,bowed high strings.wav,Input/Sounds/30146_24119-hq.ogg,"['bowed', 'electric', 'experimental', 'guitar', 'note', 'real', 'string']",johnnypanic
+6,190014,http://creativecommons.org/licenses/by/3.0/,desolated_strings_&_wood_loose_string_drop_rattling_01.wav,Input/Sounds/190014_2058748-hq.ogg,"['String', 'wooden-instrument', 'rattle', 'old-zither', 'drop', 'desolated', 'tortured', 'instrument', 'zither']",TheSoundcatcher
+7,91203,http://creativecommons.org/licenses/by-nc/3.0/,remix of 30192__ERH__string_1_loop_[wider].wav,Input/Sounds/91203_1015240-hq.ogg,"['electronic', 'loop', 'string', 'synth', 'weird', '30192', 'ERH', 'remix']",Timbre
+8,4252,http://creativecommons.org/licenses/by/3.0/,toy.harp_detuned_picked.mp3,Input/Sounds/4252_8043-hq.ogg,"['arpeggio', 'harp', 'musical-instruments', 'string']",dobroide
+9,332599,http://creativecommons.org/publicdomain/zero/1.0/,E5.wav,Input/Sounds/332599_5833352-hq.ogg,"['note', 'violin', 'string']",jeudyx
+10,106808,http://creativecommons.org/licenses/by/3.0/,100 Concerta String 01.wav,Input/Sounds/106808_1603602-hq.ogg,"['concert', 'free', 'gunnbladez', 'layer', 'loop', 'piano', 'string']",gunnbladez
+11,121023,http://creativecommons.org/licenses/by/3.0/,128 link strings.wav,Input/Sounds/121023_2193266-hq.ogg,"['cello', 'classical', 'orchestra', 'string', 'strings', 'violin']",Thirsk
+12,121031,http://creativecommons.org/licenses/by/3.0/,130 strings ensemble 2.wav,Input/Sounds/121031_2193266-hq.ogg,"['classical', 'orchestra', 'string', 'strings', 'violin', 'violins']",Thirsk
+13,121059,http://creativecommons.org/licenses/by/3.0/,160 arpeggio strings.wav,Input/Sounds/121059_2193266-hq.ogg,"['classical', 'loop', 'loops', 'orchestra', 'string', 'strings']",Thirsk
+14,121061,http://creativecommons.org/licenses/by/3.0/,160 link strings 2.wav,Input/Sounds/121061_2193266-hq.ogg,"['classical', 'loop', 'loops', 'orchestra', 'string', 'strings']",Thirsk
+15,121080,http://creativecommons.org/licenses/by/3.0/,90 string ensemble 3.wav,Input/Sounds/121080_2193266-hq.ogg,"['classical', 'loop', 'loops', 'orchestra', 'string', 'strings']",Thirsk
+16,121081,http://creativecommons.org/licenses/by/3.0/,90 strings ensemble.wav,Input/Sounds/121081_2193266-hq.ogg,"['classical', 'loop', 'loops', 'orchestra', 'string', 'strings']",Thirsk
+17,121093,http://creativecommons.org/licenses/by/3.0/,96 lead strings.wav,Input/Sounds/121093_2193266-hq.ogg,"['classical', 'loop', 'loops', 'orchestra', 'string', 'strings']",Thirsk
+18,337981,http://creativecommons.org/licenses/by-nc/3.0/,99StringsOboe.wav,Input/Sounds/337981_5997821-hq.ogg,"['simple', 'c', 'String', 'Oboe']",fschaeffer
+19,253189,http://creativecommons.org/licenses/by-nc/3.0/,E minor 2nd frett 4th string down,Input/Sounds/253189_4663216-hq.ogg,"['chord', 'string', 'strummed', 'guitar', 'acoustic', 'nylon']",GW7fold
+20,316920,http://creativecommons.org/publicdomain/zero/1.0/,Chicken Single Alarm Call,Input/Sounds/316920_4921277-hq.ogg,"['cackle', 'clucking', 'farm', 'cluck', 'hen', 'chicken', 'chickens', 'predator-alert', 'warning', 'call', 'animal', 'chick', 'Chicken', 'hens', 'bird']",Rudmer_Rotteveel
+21,316921,http://creativecommons.org/publicdomain/zero/1.0/,Chicken Alarm Call full with Occasional bird sound,Input/Sounds/316921_4921277-hq.ogg,"['cackle', 'clucking', 'farm', 'cluck', 'hen', 'chicken', 'chickens', 'predator-alert', 'warning', 'call', 'animal', 'chick', 'Chicken', 'hens', 'bird']",Rudmer_Rotteveel
+22,233093,http://creativecommons.org/publicdomain/zero/1.0/,Chicken - Buck - 96kHz.wav,Input/Sounds/233093_4056007-hq.ogg,"['buck', 'gibb', 'farm', 'jarred', 'animal', 'Chicken']",JarredGibb
+23,435882,http://creativecommons.org/licenses/by/3.0/,Chicken,Input/Sounds/435882_1992856-hq.ogg,"['hen', 'chicken', 'animal', 'clucking', 'chickens', 'cluck', 'cackle']",dersuperanton
+24,456803,http://creativecommons.org/publicdomain/zero/1.0/,Chicken clucking,Input/Sounds/456803_9159316-hq.ogg,"['hen', 'chicken', 'clucking', 'rooster', 'crowing', 'cluck', 'sound']",Breviceps
+25,166487,http://creativecommons.org/publicdomain/zero/1.0/,Chicken Carcass Mangling 2.wav,Input/Sounds/166487_544580-hq.ogg,"['squish', 'flesh', 'horror', 'carcass', 'zombie', 'squelch', 'crack', 'snap', 'chicken', 'bone']",lolamadeus
+26,118960,http://creativecommons.org/publicdomain/zero/1.0/,Chickens.wav,Input/Sounds/118960_1990695-hq.ogg,"['animal', 'chicken', 'chickens', 'clucking']",esperri
+27,170808,http://creativecommons.org/publicdomain/zero/1.0/,Chicken imitation,Input/Sounds/170808_377731-hq.ogg,"['imitate', 'cluck', 'vocal', 'clucking', 'imitation', 'chicken', 'male', 'man']",esperar
+28,413824,http://creativecommons.org/publicdomain/zero/1.0/,Chicken Scream - Harsh,Input/Sounds/413824_8126390-hq.ogg,"['creature', 'scream', 'chicken', 'sound-effect', 'vocalization', 'hen']",Henlord
+29,448118,http://creativecommons.org/publicdomain/zero/1.0/,Chicken sounds 1,Input/Sounds/448118_6405049-hq.ogg,"['birds', 'clucking', 'Chicken']",indirect
+30,40726,http://creativecommons.org/licenses/sampling+/1.0/,hens.wav,Input/Sounds/40726_419782-hq.ogg,"['chicken', 'hens', 'nagging']",pionium
+31,455905,http://creativecommons.org/publicdomain/zero/1.0/,chicken.wav,Input/Sounds/455905_2468652-hq.ogg,"['hen', 'clucking', 'chicken']",JhennaSide
+32,388362,http://creativecommons.org/licenses/by/3.0/,Chicken 1.wav,Input/Sounds/388362_5895138-hq.ogg,"['chickens', 'chicken', 'farm']",itsadequate
+33,391303,http://creativecommons.org/publicdomain/zero/1.0/,Chicken.aif,Input/Sounds/391303_7361845-hq.ogg,"['sound-of-a-chicken', 'chicken', 'sound', '5maudio17', 'uam']",fernandesbljr
+34,269277,http://creativecommons.org/licenses/by-nc/3.0/,Chicken chic chirping.wav,Input/Sounds/269277_3748023-hq.ogg,"['Chic', 'Chicken', 'Chirping']",CelestialElf
+35,424076,http://creativecommons.org/publicdomain/zero/1.0/,chicken sound - clucking.wav,Input/Sounds/424076_7388661-hq.ogg,"['hen', 'hens', 'morning', 'chicken', 'cock', 'village', 'animal', 'birds', 'clucking', 'rural', 'wake-up', 'rooster', 'chickens', 'cluck', 'farm', 'get', 'wake', 'field-recording', 'countryside']",chanyatenn
+36,194526,http://creativecommons.org/licenses/by/3.0/,handling_raw_chicken1.flac,Input/Sounds/194526_93137-hq.ogg,"['squishing', 'meat', 'juicy', 'raw', 'chicken', 'sloshing']",wjoojoo
+37,24967,http://creativecommons.org/licenses/by/3.0/,ChickenLayingAnEgg_01.wav,Input/Sounds/24967_32482-hq.ogg,"['chicken', 'egg', 'environmental-sounds-research', 'field-recording', 'laying']",www.bonson.ca
+38,444475,http://creativecommons.org/publicdomain/zero/1.0/,Pan Frying Chicken,Input/Sounds/444475_9039079-hq.ogg,"['kitchen', 'pan', 'fry', 'chicken', 'frying', 'cook', 'sizzling', 'cooking', 'stove', 'food', 'sizzle']",parkersenk
+39,164781,http://creativecommons.org/licenses/by/3.0/,Chicken.wav,Input/Sounds/164781_719027-hq.ogg,"['Chicken', 'Animals', 'Bioscience', 'Campus-Gutenberg']",ariat
+40,415878,http://creativecommons.org/licenses/by/3.0/,Alien Lion,Input/Sounds/415878_4005559-hq.ogg,"['creature', 'serum', 'synth', 'sound-effect', 'sound-design', 'lion', 'beast', 'roar', 'animals', 'alien']",erlipresidente
+41,393364,http://creativecommons.org/licenses/by/3.0/,shizi_1.wav,Input/Sounds/393364_7175897-hq.ogg,"['chinese', 'female', 'voice', 'lion', 'talk']",rebecca.valdez3@gmail.com
+42,223978,http://creativecommons.org/publicdomain/zero/1.0/,Lion lament,Input/Sounds/223978_639300-hq.ogg,"['zoo', 'growling', 'lion', 'animal']",roman_cgr
+43,67894,http://creativecommons.org/publicdomain/zero/1.0/,Lion.mp3,Input/Sounds/67894_706955-hq.ogg,"['africa', 'birds', 'cat', 'field-recording', 'lion']",Bidone
+44,69571,http://creativecommons.org/publicdomain/zero/1.0/,Lions two.mp3,Input/Sounds/69571_706955-hq.ogg,"['animal', 'bellow', 'field-recording', 'lion', 'lions', 'roar']",Bidone
+45,212764,http://creativecommons.org/licenses/by/3.0/,Lion Roar,Input/Sounds/212764_71257-hq.ogg,"['exotic', 'scary', 'growl', 'scare', 'monster', 'growling', 'roar', 'angry', 'feline', 'cat', 'beast', 'lion', 'horror', 'jungle', 'animal', 'fake', 'scream', 'creature']",qubodup
+46,97380,http://creativecommons.org/licenses/by/3.0/,african_lion.wav,Input/Sounds/97380_1578278-hq.ogg,"['africa', 'field-recording', 'lion', 'roaring', 'zoo']",soundbytez
+47,174466,http://creativecommons.org/licenses/by/3.0/,lion roar.wav,Input/Sounds/174466_3249786-hq.ogg,"['roar', 'Lion', 'animal']",yottasounds
+48,415879,http://creativecommons.org/licenses/by/3.0/,Alien Lion 2.0.wav,Input/Sounds/415879_4005559-hq.ogg,"['creature', 'serum', 'synth', 'sound-effect', 'sound-design', 'lion', 'beast', 'roar', 'animals', 'alien']",erlipresidente
+49,97382,http://creativecommons.org/licenses/by/3.0/,lion_distant.wav,Input/Sounds/97382_1578278-hq.ogg,"['africa', 'birds', 'distant', 'field-recording', 'lion', 'roaring', 'scream', 'walking', 'zoo']",soundbytez
+50,232289,http://creativecommons.org/licenses/by/3.0/,Zombie (Or Monster Or Lion) Roar,Input/Sounds/232289_2460186-hq.ogg,"['undead', 'growl', 'death', 'monster', 'roar', 'horror', 'zombie', 'lion', 'animal']",zglar
+51,270383,http://creativecommons.org/publicdomain/zero/1.0/,lion_growls.wav,Input/Sounds/270383_1808829-hq.ogg,"['beast', 'growling', 'growl', 'lion']",stratcat322
+52,115362,http://creativecommons.org/licenses/sampling+/1.0/,SFXsource-mountain-lion-wild-animal-sound-effect.mp3,Input/Sounds/115362_1927446-hq.ogg,"['animal', 'lion', 'mountain', 'wild']",SFXsource.com
+53,30427,http://creativecommons.org/licenses/by/3.0/,horror-scream.wav,Input/Sounds/30427_118241-hq.ogg,"['horror', 'lion', 'processing', 'scream', 'shout']",Erdie
+54,171948,http://creativecommons.org/publicdomain/zero/1.0/,BigCateLionTigerMeow.wav,Input/Sounds/171948_3206712-hq.ogg,"['large', 'panther', 'meow', 'kitty', 'mew', 'tiger', 'cougar', 'lion', 'low', 'kitten', 'big-cat']",RebekahDay
+55,115602,http://creativecommons.org/licenses/by-nc/3.0/,Before-after remix of 115362__SFXsource_mountain-lion.flac,Input/Sounds/115602_1015240-hq.ogg,"['115362', 'animal', 'big-cat', 'cat', 'cub', 'growl', 'lion', 'loin', 'mountain', 'roar', 'vocalisation', 'vocalization']",Timbre
+56,398254,http://creativecommons.org/licenses/by/3.0/,Low and Short Monster Growl or Purr,Input/Sounds/398254_7062176-hq.ogg,"['Creature', 'FX', 'Large', 'Sub-Harmonics', 'Animal', 'SciFi', 'Heavy', 'Snarl', 'Lion', 'Fantasy', 'Tiger', 'Breathing', 'Roar', 'SFX', 'Monster', 'Short', 'Growl', 'Purr', 'Foley']",djlprojects
+57,35139,http://creativecommons.org/licenses/by/3.0/,Lionne-Buvant+amb oiseaux.aif,Input/Sounds/35139_328279-hq.ogg,"['africa', 'lion', 'lions', 'tanzania']",roubignolle
+58,394830,http://creativecommons.org/licenses/by/3.0/,Single_Roar.wav,Input/Sounds/394830_5675578-hq.ogg,"['creature', 'bigmonster', 'animal', 'lion', 'tiger', 'roar', 'scary', 'monster', 'growl', 'beast']",columbia23
+59,199523,http://creativecommons.org/licenses/by/3.0/,Leoncitos.wav,Input/Sounds/199523_3632969-hq.ogg,"['animals', 'field-recording', 'ZooSonor', 'roar', 'Barcelona', 'Zoo', 'lion', 'children', 'Spain']",FestaCienciaTecnologia
